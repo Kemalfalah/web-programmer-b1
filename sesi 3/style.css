@@ -1,0 +1,27 @@
+body {
+    background-color: #eee;
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.box_dua {
+    background: red;
+    height: 100px;
+    width: 600px;
+    margin-left: 70px;
+    text-align: center;
+    padding-left: 70px;
+}
+
