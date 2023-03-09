@@ -1,0 +1,5 @@
+Fungsi cetak mengambil value dari input teks dengan menggunakan document.getElementById('text-input').value yang mengembalikan nilai dari elemen input teks dengan ID text-input.
+Fungsi cetak mengambil value dari input angka dengan menggunakan document.getElementById('number-input').value yang mengembalikan nilai dari elemen input angka dengan ID number-input.
+Fungsi cetak mendapatkan elemen <ol> dengan menggunakan document.getElementById('list') yang mengembalikan elemen dengan ID list.
+Fungsi cetak membersihkan innerHTML <ol> jika sudah terisi dengan menggunakan olElement.innerHTML = ''.
+Fungsi cetak membuat loop untuk menambahkan innerHTML <li> sebanyak value dari input angka dengan menggunakan for (let i = 0; i < numberValue; i++). Setiap kali iterasi, fungsi akan menambahkan innerHTML <li> dengan teks yang diambil dari input teks dengan menggunakan olElement.innerHTML += <li>${textValue}</li>;.

@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+.tranportasi {
+    list-style: square;
+}
+
+.lokasi {
+    list-style: circle;
+}
+
+.merk {
+    list-style: upper-roman;
+}

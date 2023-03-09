@@ -16,7 +16,6 @@
         var r = 7
 
         for (var i = 0; i < r; i++) {
-            var r = r;
             var luas = pi * r * r;
             var keliling = 2 * pi * r;
 
