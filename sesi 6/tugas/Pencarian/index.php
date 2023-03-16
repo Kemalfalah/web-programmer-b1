@@ -20,7 +20,7 @@
         var kataAwal = kalimat.match(/^./);
         // mencari data/karakter terakhir (t)
         var kataAkhir = kalimat.match(/.$/);
-
+        
         console.log(besar); // Output: ["S", "C"]
         console.log(kataAwal) // Output: b
         console.log(kataAkhir); // Output: t
